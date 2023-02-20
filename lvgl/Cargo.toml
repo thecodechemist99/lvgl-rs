@@ -30,7 +30,7 @@ lvgl-codegen = { version = "0.5.2", path = "../lvgl-codegen" }
 lvgl-sys = { version = "0.5.2", path = "../lvgl-sys" }
 
 [dev-dependencies]
-embedded-graphics-simulator = "0.3.0"
+embedded-graphics-simulator = "0.4.0"
 heapless = "0.7.13"
 
 [[example]]
